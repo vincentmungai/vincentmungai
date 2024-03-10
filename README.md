@@ -1,7 +1,5 @@
 Hey, I'm Vincent from Kenya,I do design and frint end development. I like exploring creative ways to deliver content using native CSS, webflow, Figma and wordpress. I have a robust design system for figma that I use to create all of my design projects, for an easier time during development. You can check out my website that's still under development at https://vincentmungai.github.io/portfolio/portfolio.html or some of my design work at https://dribbble.com/Vmungai_ .
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincentmungai)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋, vincentmungai
 #### Design and Development
 ![Design and Development](https://pbs.twimg.com/profile_banners/3049630626/1697576572/600x200)
