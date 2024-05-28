@@ -1,4 +1,4 @@
-Hey, I'm Vincent from Kenya,I do design and frint end development. I like exploring creative ways to deliver content using native CSS, webflow, Figma and wordpress. I have a robust design system for figma that I use to create all of my design projects, for an easier time during development. You can check out my website that's still under development at https://vincentmungai.github.io/portfolio/portfolio.html or some of my design work at https://dribbble.com/Vmungai_ .
+Hey, I'm Vincent from Kenya,I do design and front end development. I like exploring creative ways to deliver content using Astrojs, vanilla CSS, webflow, Figma. I have a robust design system for figma that I use to create all of my design projects, for an easier time during development. You can check out my website at http://vincentmungai.vercel.app or some of my design work at https://dribbble.com/Vmungai_ .
 
 ### Hi there 👋, vincentmungai
 #### Design and Development
@@ -6,7 +6,7 @@ Hey, I'm Vincent from Kenya,I do design and frint end development. I like explor
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: JS / HTML / CSS
+Skills: AstroJS / JS / HTML / CSS / NextJS / GSAP+
 
 - 🔭 I’m currently working on this page. 
 
