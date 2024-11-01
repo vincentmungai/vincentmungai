@@ -1,4 +1,4 @@
-Hey, I'm Vincent from Kenya,I do design and front end development. I like exploring creative ways to deliver content using Astrojs, vanilla CSS, webflow, Figma. I have a robust design system for figma that I use to create all of my design projects, for an easier time during development. You can check out my website at http://vincentmungai.vercel.app or some of my design work at https://dribbble.com/Vmungai_ .
+Hey, I'm Vincent from Kenya,I do design and front end development. I like exploring creative ways to deliver content using Astrojs, vanilla CSS, webflow, Figma. I have a robust design system for figma that I use to create all of my design projects, for an easier time during development. Check out what I'm currently working on at  http://vincentmungai.vercel.app
 
 ### Hi there 👋, vincentmungai
 #### Design and Development
