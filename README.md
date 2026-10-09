@@ -1,47 +1,121 @@
-# Hi there, I'm Vincent Wachira Mungai! 👋
+<div align="center">
 
-I am a results-driven **Front-End Engineer and IT/Network Specialist** with over four years of experience building high-performance, SEO-optimized digital experiences and managing complex network infrastructures. I specialize in bridging the gap between high-performance front-end development and secure, robust network engineering.
+```text
+  ___ ___ ___ _  _  ___ ___ _  _ _____   __  __ _   _ _  _  ___   _   ___ 
+ | _ \ __/ __| | | |/ __| __| \| |_   _| |  \/  | | | | \| |/ __| /_\ |_ _|
+ |   / _|\__ \ |_| | (__| _|| .` | | |   | |\/| | |_| | .` | (_ |/ _ \ | | 
+ |_|_\___|___/\___/ \___|___|_|\_| |_|   |_|  |_|\___/|_|\_|\___/_/ \_\___|
+```
 
-![Design and Development](https://pbs.twimg.com/profile_banners/3049630626/1697576572/600x200)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Front-End+Engineer+%26+Creative+Technologist;Network+%26+Infrastructure+Specialist;Architecting+Next-Gen+Interactive+Systems" alt="Typing SVG" />
 
----
+<p align="center">
+  <a href="https://mungaiworks.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mungaiworks.vercel.app-00f2fe?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://twitter.com/Wallstreet_Lq"><img src="https://img.shields.io/badge/Twitter-Wallstreet__Lq-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:vinimunga@gmail.com"><img src="https://img.shields.io/badge/Email-vinimunga%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-### 🛠️ Technical Skills
+```ascii
+             .---.
+            /     \
+           | () () |       [ SYSTEM STATUS: ONLINE ]
+            \  -  /        [ LOCATION: NAIROBI, KE ]
+           .-'`-`'-.       [ ARCH: HYBRID WEB / INFRA ]
+          /  \___/  \
+         / /|     |\ \
+        (_/ |_____| \_)
+```
 
-#### 💻 Software & Web Engineering
-- **Languages**: JavaScript (ES6+), C++, HTML5, CSS3/SASS, SQL
-- **Frameworks & Libraries**: Astro.js, Next.js, React, GSAP (GreenSock)
-- **CMS & No-Code**: Sanity CMS, Wix Studio, Webflow, Framer, WordPress, GraphQL, Notion DB
-- **Tools & Deployment**: Git, GitHub, Vercel, Netlify, Web3Forms, Figma, WebStorm, VS Code
-
-#### 🌐 Networking & Data Communications
-- **Routing & Switching**: L2/L3 technologies, VLAN configuration, Spanning Tree Protocol (STP), IPv4/IPv6, OSPF, and static routing
-- **Security & Systems**: Access Control Lists (ACLs), AAA (Authentication, Authorization, Accounting), NAT, and data center cabling
-- **Advanced Networking**: Software-Defined Networking (SDN), VXLAN, and network automation tools
-- **Infrastructure**: Wireless networks and Wide Area Network (WAN) infrastructures
-
-#### 🔧 Operational & Soft Skills
-- Diagnostic troubleshooting of complex network, hardware, and system issues
-- Efficient network layout design and system performance optimization
-- Technical incident documentation and workflow streamlining
-- Analytical problem-solving in multi-domain network and systems environments
-
----
-
-### 🎓 Education & Certifications
-- **Bachelor of Science: Information Technology** – Mount Kenya University (In Progress)
-- **Certification: Datacomms (Networking)** – Computer Learning Centre Africa (2021)
-- **Certificate of Higher Education: Advanced SQL and Data Management** – Institute of Software Technologies (2021)
-- **Professional Certifications** (In Progress): CompTIA Network+, Cisco Networks
+</div>
 
 ---
 
-### 🔭 Current Focus
-- Developing creative, high-performance web applications using **Astro.js** and **GSAP**.
-- Streamlining systems with network automation and exploring SDN/VXLAN concepts.
-- Check out my portfolio and projects at [mungaiworks.vercel.app](https://mungaiworks.vercel.app/) or [vincentmungai.vercel.app](http://vincentmungai.vercel.app).
+### `// 01. PROTOCOL_SUMMARY`
+
+```yaml
+identity:
+  name: "Vincent Wachira Mungai"
+  role: "Creative Front-End Architect & Systems/Network Specialist"
+  experience: "4+ years bridging high-fidelity UX and robust network engineering"
+  core_philosophy: "Micro-interactions at the edge, unyielding stability in the core."
+```
 
 ---
 
-### 📫 Connect with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vincentmungai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Wallstreet_Lq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/vincentmungai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vincentmungai.github.io/portfolio/portfolio.html)
+### `// 02. SYSTEM_CAPABILITIES & STACK`
+
+#### 🌐 **Interactive Front-End & Creative Web**
+```
+  JavaScript (ES6+)  ━━ [████████████████████████]  Next.js / Astro.js
+  React Ecosystem    ━━ [██████████████████████  ]  GSAP Animations
+  Tailwind / SCSS    ━━ [████████████████████████]  Fluid Responsive UX
+  Modern Tooling     ━━ [██████████████████████  ]  Vite / Webpack / Turbopack
+```
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+#### ⚡ **Infrastructure, Systems & Networking**
+```
+  Routing & Switching ━━ [ L2/L3 Architecture, STP, OSPF, IPv4/IPv6, VLANs ]
+  Security & Access   ━━ [ ACLs, AAA (RADIUS/TACACS+), NAT, Stateful Firewalls ]
+  Next-Gen Networks   ━━ [ Software-Defined Networking (SDN), VXLAN Overlays ]
+  Cloud & Edge        ━━ [ Vercel, Netlify, Cloudflare Workers, DNS & CDN ]
+```
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA_Network+-002F6C?style=flat-square&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### `// 03. METRICS_AND_TELEMETRY`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vincentmungai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=8B949E" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentmungai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=8B949E" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincentmungai&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" />
+</div>
+
+---
+
+### `// 04. CURRENT_RADAR`
+
+```bash
+$ cat current_initiatives.json
+{
+  "focus": "Building immersive web apps with GSAP & Astro",
+  "exploring": ["SDN programmatic routing", "Zero-Trust Mesh Networks", "Generative WebGL"],
+  "academic": "B.Sc. Information Technology @ Mount Kenya University",
+  "open_to": ["Collaborative front-end builds", "Design engineering", "System architecture"]
+}
+```
+
+---
+
+<div align="center">
+
+```
+  ┌────────────────────────────────────────────────────────┐
+  │  "Any sufficiently advanced technology is              │
+  │   indistinguishable from magic." — Arthur C. Clarke    │
+  └────────────────────────────────────────────────────────┘
+```
+
+**[ ✦ Explore Live Portfolio: mungaiworks.vercel.app ✦ ](https://mungaiworks.vercel.app)**
+
+</div>
